@@ -4,7 +4,7 @@ import HeaderStyles from '../../styles/HeaderStyles'
 const Header = () => {
     return (
         <HeaderStyles>
-            <h1 data-testid="headerH1">Assebly Challenge</h1>
+            <h1 data-testid="headerH1">Assembly Challenge</h1>
         </HeaderStyles>
     );
 };
